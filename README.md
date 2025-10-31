@@ -1,7 +1,7 @@
 # 🎙️ AI Podcast Generator
 
 **CS390-WAP: Web Application Programming**  
-**Instructor:** Tanay Gondil
+**Instructor:** Tanay Gondil  
 ***Utilizes Gemini API instead of OpenAI for script generation.***
 
 ---
