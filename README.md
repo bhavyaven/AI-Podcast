@@ -2,6 +2,7 @@
 
 **CS390-WAP: Web Application Programming**  
 **Instructor:** Tanay Gondil
+***Utilizes Gemini API instead of OpenAI for script generation.***
 
 ---
 
